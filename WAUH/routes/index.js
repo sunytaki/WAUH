@@ -4,6 +4,6 @@
  */
 
 
-exports.index = function(req, res){//223344
+exports.index = function(req, res){//난 기돈이다
   res.render('index', { title: 'Express' });
 };
