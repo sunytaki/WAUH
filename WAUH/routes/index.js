@@ -4,6 +4,6 @@
  */
 
 
-exports.index = function(req, res){//2233
+exports.index = function(req, res){//223344
   res.render('index', { title: 'Express' });
 };
